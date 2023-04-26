@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Facebook-->
+    <string name="facebook_app_id"></string>
+    <string name="fb_login_protocol_scheme"></string>
+    <!--Twitter-->
+    <string name="com.twitter.sdk.android.CONSUMER_KEY"></string>-->
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET"></string>
+    <!--Google-->
+    <string name="google_server_client_id"></string>
+    <string name="google_oauth2_authorization_end_point"></string>
+    <string name="google_oauth2_token_end_point"></string>
+    <string name="google_oauth2_client_id"></string>
+    <string name="google_oauth2_redirect_uri"></string>
+    <!--Unsplash-->
+    <string name="unsplash_oauth2_authorization_end_point"></string>
+    <string name="unsplash_oauth2_token_end_point"></string>
+    <string name="unsplash_api_end_point"></string>
+    <string name="unsplash_oauth2_client_id"></string>
+    <string name="unsplash_oauth2_secret_id"></string>
+    <string name="unsplash_oauth2_redirect_uri"></string>
+</resources>
